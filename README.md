@@ -1,3 +1,5 @@
+![Screen Shot 2024-01-18 at 17 30 43](https://github.com/ayuboketch/Music-Player/assets/17433791/caff908d-343a-4ca3-89a7-ed10cb0662c7)
+
 # Project Name: HarmonyPlayer Project
 
 <h2> Discover the HarmonyPlayer Project</h2> – an innovative digital music player that seamlessly blends minimalist design with advanced functionality.
@@ -15,3 +17,6 @@ Explore the harmonious convergence of three languages:
 # Shortened Overview:
 
 HarmonyPlayer, the digital music player, merges minimalist design and advanced functionality. Crafted with HTML, CSS, and JavaScript, it offers a captivating audio experience. The interface, a visual masterpiece, combines intuitive layout (HTML), refined styling (CSS), and dynamic functionalities (JavaScript). Central to the experience is an elegant container featuring album art and control buttons for play, pause, shuffle, and playlist management. The collaborative efforts of HTML, CSS, and JavaScript elevate the playlist feature, creating a curated journey through sound. Beyond aesthetics, JavaScript ensures a responsive interface, adding interactivity with playlist shuffling and track deletion. HarmonyPlayer is not just a music player; it's an artistic auditory masterpiece, inviting users into a realm of creativity and technological excellence. Welcome to HarmonyPlayer.
+
+![Screen Shot 2024-01-18 at 17 31 39](https://github.com/ayuboketch/Music-Player/assets/17433791/b3d538d2-851f-4f61-bbc0-cbc066a31013)
+![Screen Shot 2024-01-18 at 17 31 53](https://github.com/ayuboketch/Music-Player/assets/17433791/d1304d57-5471-4eab-8d23-2da766a71941)
